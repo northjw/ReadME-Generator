@@ -6,15 +6,24 @@ const questions = [
     {
         message: "what is your name?",
         name: "name"
+    },{
+        message: "What is the title of your project?",
+        type: "input",
+        name: "title",
+  
+      },
+      {
+        message: "Enter a description of your project",
+        type: "input",
+        name: "description"
+      },
+      {
+        message: "Provide installation instructions:",
+        name: "installationInstructions",
+        type: "input",
+        default: "node index.js"
     },
-
-    {
-        message: "what is your age?",
-        name: "age",
-
-    },
-
-
+      
 ];
 
 // function to write README file
