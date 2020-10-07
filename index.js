@@ -1,12 +1,16 @@
 
 const inquirer = require("inquirer");
-const generateMarkdown
+const fs = require("fs");
+const generateMarkdown = require("utils/generateMarkdown.js");
+
+
 // array of questions for user
 const questions = [
     {
-        message: "what is your name?",
+        message: "what is your github username?",
         name: "name"
-    },{
+    },
+    {
         message: "What is the title of your project?",
         type: "input",
         name: "title",
@@ -22,6 +26,11 @@ const questions = [
         name: "installationInstructions",
         type: "input",
         default: "node index.js"
+    },
+    {
+        message: "Who else contributed to this project?",
+        name: "contributors",
+        type: "input"
     },
       
 ];
