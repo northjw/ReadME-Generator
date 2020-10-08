@@ -10,14 +10,15 @@ Table of Contents (Optional)
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 Installation
-Usage
-Credits
-License
-Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+${data.Installation}
 
 Usage
-Provide instructions and examples for use. Include screenshots as needed.
+${data.Usage}
+
+Credits
+${data.Credits}
+License${data.License}
+
 
 Credits
 List your collaborators, if any, with links to their GitHub profiles.

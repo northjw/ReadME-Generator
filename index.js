@@ -32,6 +32,11 @@ const questions = [
         name: "contributors",
         type: "input"
     },
+    {
+        message: "Describe the usage for this project",
+        name: "usage",
+        type: "input"
+    },
       
 ];
 
