@@ -1,25 +1,25 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.title};
   
 Description
-${data.title}
+${data.title};
 
 
 Table of Contents (Optional)
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 Installation
-${data.Installation}
+${data.Installation};
 
 Usage
-${data.Usage}
+${data.Usage};
 
 Credits
-${data.Credits}
+${data.Credits};
 
 License
-${data.License}
+${data.License};
 
 
 🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
