@@ -37,7 +37,21 @@ const questions = [
         name: "usage",
         type: "input"
     },
-      
+    {
+        message: "What license does your application have?",
+        name: "license",
+        type: "input"
+    },
+    {
+        message: "Describe the usage for this project",
+        name: "li",
+        type: "input"
+    },
+    {
+        message: "What is your email address?",
+        name: "email",
+        type: "input"
+    },
 ];
 
 function writeToFile(data) {

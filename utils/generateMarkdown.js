@@ -1,6 +1,9 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-   `### Welcome to my ${data.title}
+   console.log(data)
+     return (`# ${data.title}
+     ![badmath](https://img.shields.io/badge/license-${data.license}-green)
+   ### Welcome to my ${data.title}
   
 #--- Description ---#
 ${data.title};
@@ -10,16 +13,16 @@ ${data.title};
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 *Installation
-${data.Installation};
+${data.installationInstructions};
 
 *Usage
-${data.Usage};
+${data.usage};
 
 *Credits
-${data.Credits};
+${data.credits};
 
 *License
-${data.License};
+${data.license};
 
 
 
@@ -33,7 +36,7 @@ ${data.License};
 
   ${data.test_instruct}
 
-`;
+`);
 }
 
 module.exports = generateMarkdown;
