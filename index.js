@@ -40,15 +40,20 @@ const questions = [
       
 ];
 
-// function to write README file
-function writeToFile(fileName, data) {
+function writeToFile(data) {
+    try {
+        fs.writeFileSync("README.md", data)
+    }
+    catch (err) {}
 }
 
 // function to initialize program
-async function init() {
-    const answers = inquirer.prompt(questions);
-    console.log(answers.name)
-
+function init() {
+    inquirer.prompt(questions)
+    .then((response) => {
+        const createFile = generateMarkdown(response);
+        writeToFile(createFile);
+    })
 }
 
 // function call to initialize program
