@@ -1,31 +1,31 @@
-# sfbsfbsfdblkndgfblkfgjnblkfgxnb.kfgjnnfg
-     ![badmath](https://img.shields.io/badge/license-hjmghvm -green)
-   ### Welcome to my sfbsfbsfdblkndgfblkfgjnblkfgxnb.kfgjnnfg
+# ReadMe Generator 
+     ![badmath](https://img.shields.io/badge/license--- none ---green)
+   ### Welcome to my ReadMe Generator 
   
 #--- Description ---#
-sfbsfbsfdblkndgfblkfgjnblkfgxnb.kfgjnnfg;
+ReadMe Generator ;
 
 
 #--- Table of Contents ---#
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 *Installation
-dfkjbndfkbnd.,fbn.d,fgb .,fg mbdfdm,fb;
+The useer needs to instal Inquirer, in terminal enter npm i inquirer;
 
 *Usage
-dmv ,df,bmv dnf,.b mc;
+The Readme Generator is for any user who wants to generator a professional Readme.md to attach to thier project.;
 
 *Credits
 undefined;
 
 *License
-hjmghvm ;
+-- none --;
 
 
 
 
  #--- Badges ---#
-  ![badmath](https://img.shields.io/badge/license-hjmghvm -green)
+  ![badmath](https://img.shields.io/badge/license--- none ---green)
 
 
 

@@ -42,11 +42,7 @@ const questions = [
         name: "license",
         type: "input"
     },
-    {
-        message: "Describe the usage for this project",
-        name: "li",
-        type: "input"
-    },
+    
     {
         message: "What is your email address?",
         name: "email",
