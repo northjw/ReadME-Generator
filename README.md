@@ -1,5 +1,5 @@
 # ReadMe Generator 
-     ![badmath](https://img.shields.io/badge/license--- none ---green)
+     ![badmath](https://img.shields.io/badge/license-ffcb cfsb scfb vsfcb-green)
    ### Welcome to my ReadMe Generator 
   
 #--- Description ---#
@@ -10,22 +10,22 @@ ReadMe Generator ;
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 *Installation
-The useer needs to instal Inquirer, in terminal enter npm i inquirer;
+fskjlcnb;
 
 *Usage
-The Readme Generator is for any user who wants to generator a professional Readme.md to attach to thier project.;
+sfcv cfv scfv cf bvcf b;
 
 *Credits
 undefined;
 
 *License
--- none --;
+ffcb cfsb scfb vsfcb;
 
 
 
 
  #--- Badges ---#
-  ![badmath](https://img.shields.io/badge/license--- none ---green)
+  ![badmath](https://img.shields.io/badge/license-ffcb cfsb scfb vsfcb-green)
 
 
 

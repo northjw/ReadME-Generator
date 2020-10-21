@@ -33,15 +33,25 @@ const questions = [
         type: "input"
     },
     {
-        message: "Describe the usage for this project",
+        message: "What is the usage for this project",
         name: "usage",
         type: "input"
     },
     {
-        message: "What license does your application have?",
+        
+        message: "Chose the preferred license for this project: ",
         name: "license",
-        type: "input"
-    },
+        type: "list",
+        choices: [
+            "Apache",
+            "Academic",
+            "GNU",
+            "ISC",
+            "MIT",
+            "Mozilla",
+            "Open"
+        ]
+         },
     
     {
         message: "What is your email address?",
