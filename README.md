@@ -43,4 +43,4 @@ undefined
  For any questions about this project please contact: northjw1@gmail.com<br /><br />
 
 
-<video src="readmegenerator.mov" width="320" height="200" controls preload></video>
+<img src="./utils/readmegenerator.png">
