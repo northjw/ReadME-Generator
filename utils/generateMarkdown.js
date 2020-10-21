@@ -1,7 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   console.log(data)
-    return (`# ${data.title}
+  return (`# ${data.title}
     ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
     # Welcome to the ${data.title}'s Project Page! : 
@@ -22,12 +22,9 @@ function generateMarkdown(data) {
       ${data.usage}
     ## License
     ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
-
     ${data.license}
     ## Contributing
     ${data.contributors}
-    
-   
     
     ## Tests
     ${data.test_instruct}
@@ -35,6 +32,6 @@ function generateMarkdown(data) {
     Github: (https://github.com/${data.github_name})
     For any questions about this project please contact <${data.email}> 
     `)
-  }
-  
-  module.exports = generateMarkdown;
+}
+
+module.exports = generateMarkdown;
