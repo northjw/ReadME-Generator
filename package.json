@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "badmath": "^1.0.1",
     "inquirer": "^6.5.2"
   }
 }
