@@ -52,6 +52,12 @@ const questions = [
             "Open"
         ]
          },
+
+         {
+            message: "What commands should be run to run test",
+            name: "test",
+            type: "input"
+        },
     
     {
         message: "What is your email address?",

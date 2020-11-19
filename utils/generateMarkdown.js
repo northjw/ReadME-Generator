@@ -5,16 +5,16 @@ function generateMarkdown(data) {
     
    `<h1>Read Me Generator </h1>
 
-   <h3>Project Name</h3>
+   ## Project Name ##
    ${data.title}
    <br />
 
-<h3>#--- Description ---#</h3>
+##  Description  ##
 ${data.description}
 <br />
 
 
-<h3>#--- Table of Contents ---#</h3>
+##  Table of Contents  ##
 
 - [Description](#description)<br />
 - [Installation](#installation)<br />
@@ -25,27 +25,27 @@ ${data.description}
 - [Questions](#questions)<br />
 
 
-<h3>## Description</h3>
+## Description ##
     ${data.description}
-<h3>## Installation</h3>
+## Installation ##
     ${data.installationInstructions}
- <h3> ## Usage</h3>
+ ##  Usage ##
     ${data.usage}
-  <h3>## License</h3>
+  ##  License ##
   This application is covered by the ${data.license} license;
   ![badge](https://img.shields.io/badge/license-${data.license}-green)
   
-  <h3>## Contributors</h3>
+  ##  Contributors ##
   ${data.contributors}
  
-<h3>#--- Tests ---#</h3>
-${data.test_instruct}
+## Tests  ##
+${data.test}
   <br />
 
- <h3>#--- Questions ---#</h3> 
- GitHub: [${data.github}](https://github.com/${data.github})<br />
+ ##  Questions  ## 
+ GitHub: [${data.github}](https://github.com/${data.github}) <br />
 <br />
- For any questions about this project please contact: ${data.email}<br /><br />
+ For any questions about this project please contact: ${data.email} <br /><br />
 
 `);
 }

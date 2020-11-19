@@ -1,15 +1,15 @@
 <h1>Read Me Generator </h1>
 
-   <h3>Project Name</h3>
-   Crazy Clown Battle Ground
+   ## Project Name ##
+   Crazy Clown Battleground
    <br />
 
-<h3>#--- Description ---#</h3>
-This is a RPG , in which the users are killer clowns who battle to the death. There are mutiple characters, with different attacks, strenghts, and special moves.
+##  Description  ##
+Crazy Clown Battleground 
 <br />
 
 
-<h3>#--- Table of Contents ---#</h3>
+##  Table of Contents  ##
 
 - [Description](#description)<br />
 - [Installation](#installation)<br />
@@ -20,27 +20,27 @@ This is a RPG , in which the users are killer clowns who battle to the death. Th
 - [Questions](#questions)<br />
 
 
-<h3>## Description</h3>
-    This is a RPG , in which the users are killer clowns who battle to the death. There are mutiple characters, with different attacks, strenghts, and special moves.
-<h3>## Installation</h3>
+## Description ##
+    Crazy Clown Battleground 
+## Installation ##
     npm i, node index.js
- <h3> ## Usage</h3>
-    to entertain and creep out the user
-  <h3>## License</h3>
-  This application is covered by the Open license;
-  ![badge](https://img.shields.io/badge/license-Open-green)
+ ##  Usage ##
+    to entertain anyone who enjoys playing RPG battle games
+  ##  License ##
+  This application is covered by the Mozilla license;
+  ![badge](https://img.shields.io/badge/license-Mozilla-green)
   
-  <h3>## Contributors</h3>
-  Polaris Productions
+  ##  Contributors ##
+  Me Myself and I
  
-<h3>#--- Tests ---#</h3>
-undefined
+## Tests  ##
+--module 
   <br />
 
- <h3>#--- Questions ---#</h3> 
- GitHub: [Northjw](https://github.com/Northjw)<br />
+  ![Screenshot](terminalimage.png)
+
+ ##  Questions  ## 
+ GitHub: [northjw1](https://github.com/northjw1) <br />
 <br />
- For any questions about this project please contact: northjw1@gmail.com<br /><br />
+ For any questions about this project please contact: northjw1@gmail.com <br /><br />
 
-
-<img src="./utils/readmegenerator.png">
