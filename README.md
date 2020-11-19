@@ -5,7 +5,7 @@
    <br />
 
 ##  Description  ##
-Crazy Clown Battleground 
+Crazy Clown Battleground is an RPG where users get to battle it out as crazy clowns with a circus backdrop. Ending in a final fight to win control of the circus by killing the ring leader.
 <br />
 
 
@@ -21,7 +21,7 @@ Crazy Clown Battleground
 
 
 ## Description ##
-    Crazy Clown Battleground 
+    Crazy Clown Battleground is an RPG where users get to battle it out as crazy clowns with a circus backdrop. Ending in a final fight to win control of the circus by killing the ring leader.
 ## Installation ##
     npm i, node index.js
  ##  Usage ##
